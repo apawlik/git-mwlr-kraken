@@ -16,3 +16,5 @@ This is a short introductory course to using version control with GitKraken GUI.
 10. Break something down in the main script and close RStudio.
 11. Reopen, try running...
 12. Using GitKraken get the previous version (the working one).
+
+Notes: try making modifications *in the past*, in the past checked out versions. 
