@@ -1,3 +1,4 @@
+# The author is Aleksandra Pawlik
 # Short R script adapted from Software Carpentry data lesson 
 library("ggplot2")
 
