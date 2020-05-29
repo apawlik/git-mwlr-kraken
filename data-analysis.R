@@ -1,3 +1,4 @@
+# The author is Research Scientist
 # Short R script adapted from Software Carpentry data lesson 
 library("ggplot2")
 
